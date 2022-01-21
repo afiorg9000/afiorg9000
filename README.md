@@ -1,7 +1,8 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?align=center&color=%2326D210&lines=Hi%2C+I'm+Sofia+Mendez+;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I'm+Sofia+Mendez+;Welcome+to+my+profile!color=%2326D210&">
+  </a>
+</h1>
 
 Greetings fellow programmers!; I'm Sofia Mendez...;This is my profile!
 
