@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi,+I'm+Sofia+Mendez;Take+a+look+at+my+profile!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ooB612&size=24&width=500&lines=Hi,+I'm+Sofia+Mendez;Take+a+look+at+my+profile!;)](https://git.io/typing-svg)
 
 Greetings fellow programmers!; I'm Sofia Mendez...;This is my profile!
 
