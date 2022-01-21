@@ -1,7 +1,3 @@
-
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/I8e1nG) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-m%C3%A9ndez-a826671a2/)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi,+I'm+Sofia+Mendez;Take+a+look+at+my+profile!;)](https://git.io/typing-svg)
 
 Greetings fellow programmers!; I'm Sofia Mendez...;This is my profile!
@@ -109,3 +105,5 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 [twitter]: https://twitter.com/warengonzaga
 [instagram]: https://instagram.com/warengonzagaofficial
 [youtube]: https://youtube.com/warengonzaga
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/I8e1nG) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-m%C3%A9ndez-a826671a2/)
