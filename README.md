@@ -14,6 +14,7 @@ class ReadMe:
 ---
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-```def say_hi(self):
+```
+def say_hi(self):
        print("Thanks for dropping by, hope you find some of my work interesting.")
 ```
