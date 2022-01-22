@@ -9,5 +9,7 @@ class ReadMe:
             'programming': ['Holberton', 'ESTREAM Academy'],
             'Language': ['C', 'Python'],
         }
+    def say_hi(self):
+       print("Thanks for dropping by, hope you find some of my work interesting.")
         
 ```
