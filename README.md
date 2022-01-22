@@ -14,3 +14,8 @@ class ReadMe:
        print("Thanks for dropping by, hope you find some of my work interesting.")
         
 ```
+---
+---
+### Github commit stats
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
