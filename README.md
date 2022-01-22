@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=afiorg9000&color=blueviolet)
 <h1 align="center">
  <abc>
-  <br>Hey, I'm Sofia Mendez! <img src="![image](https://user-images.githubusercontent.com/90820795/150628668-6d48fff7-4877-46da-81dd-5fad9b1e647e.png)
-"><br>
-  <br> Thanks for dropping by, hope you find some of my work interesting.<br>
-  <br>
-
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231AB7F7&size=30&center=true&height=60&lines=Hey%2C+I'm+Sofia+Mendez!+)](https://git.io/typing-svg)
+  
 ![78KI](https://user-images.githubusercontent.com/90820795/150628280-9016bb00-3d49-40ab-94d6-36d6793d5cb0.gif)
-     
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231AB7F7&size=63&center=true&width=2500&height=137&lines=Thanks+for+dropping+by%2C+hope+you+find+some+of+my+work+interesting.)](https://git.io/typing-svg)
+  
  </abc>
 </h1>
 
