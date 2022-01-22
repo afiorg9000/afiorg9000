@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: afiorg9000/blog-post-workflow@main
         with:
           comment_tag_name: "TWITTER"
           feed_list: "<<[[https://rss.app/feeds/F16qzGaGCA92UB4B.xml]]>>"
