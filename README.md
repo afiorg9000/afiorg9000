@@ -8,7 +8,7 @@ class ReadMe:
         self.education = {
             'programming': ['Holberton', 'ESTREAM Academy'],
             'Language': ['C', 'Python'],
-            'Learning': ['Low-level', 'Algorithms', 'Higher-level', 'System engineering', 'DevOps'],
+            'Learning': ['Low-level programing', 'Algorithms', 'Higher-level programming'],
         }
     def Hey(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
