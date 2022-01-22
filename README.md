@@ -10,9 +10,10 @@ class ReadMe:
             'Language': ['C', 'Python'],
             'Learning': ['Low-level programming', 'Algorithms', 'Higher-level programming', 'System engineering', 'DevOps'],
         }
-    def say_hi(self):
-       print("Thanks for dropping by, hope you find some of my work interesting.")
-        
 ```
 ---
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+```def say_hi(self):
+       print("Thanks for dropping by, hope you find some of my work interesting.")
+```
