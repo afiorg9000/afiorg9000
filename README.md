@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=afiorg9000&color=blueviolet)
-# Hi, I'm Sofia Mendez!
+# Hey, I'm Sofia Mendez!
 ```python
 class ReadMe:
     def __init__(self, username="afiorg", year=2022):
@@ -15,6 +15,6 @@ class ReadMe:
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ```
-def say_hi(self):
+def Hey(self):
        print("Thanks for dropping by, hope you find some of my work interesting.")
 ```
