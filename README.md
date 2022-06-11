@@ -17,9 +17,9 @@ class ReadMe:
         self.username = username
         self.name = 'Sofia Mendez Dantas'
         self.education = {
-            'programming': ['Holberton', 'ESTREAM Academy'],
-            'Language': ['C', 'Python'],
-            'Learning': ['Low-level programing', 'Algorithms', 'Higher-level programming'],
+            'programming': ['Holberton', 'ESTREAM Academy', 'Web3 Bootcamp'],
+            'Language': ['C', 'Python', 'JavaScript', 'HTML', 'CSS', 'Ruby', 'Shell', 'Puppet'],
+            'Learning': ['Low-level programing', 'DevOps', 'Higher-level programming'],
         }
 ```
 ---
