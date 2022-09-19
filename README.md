@@ -23,7 +23,7 @@ class ReadMe:
         }
 ```
 ---
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ```
                “The computer programmer is a creator of universes for which he alone is the lawgiver. 
