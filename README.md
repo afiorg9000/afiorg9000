@@ -19,7 +19,7 @@ class ReadMe:
         self.education = {
             'programming': ['Holberton', 'ESTREAM Academy', 'Web3 Bootcamp'],
             'Language': ['C', 'Python', 'JavaScript', 'HTML', 'CSS', 'Ruby', 'Shell', 'Puppet'],
-            'Learning': ['Low-level programing', 'DevOps', 'Higher-level programming'],
+            'Learning': ['Low-level programing', 'System engineering & DevOps', 'Higher-level programming', 'Machine Learning'],
         }
 ```
 ---
