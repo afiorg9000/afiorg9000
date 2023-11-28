@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">👋 Hey, I'm Sofia Mendez!</h1>
+<h1 align="center">👋 Hey,  I'm Sofia Mendez!</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90820795/150628280-9016bb00-3d49-40ab-94d6-36d6793d5cb0.gif" alt="Coding GIF">
 </p>
