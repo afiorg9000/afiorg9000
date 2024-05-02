@@ -2,38 +2,25 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=afiorg9000&color=blueviolet" alt="Profile Views">
 </p>
-
-<!-- Introduction -->
-<h1 align="center">👋 Hey,  I'm Sofia Mendez!</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90820795/150628280-9016bb00-3d49-40ab-94d6-36d6793d5cb0.gif" alt="Coding GIF">
 </p>
+<!-- Introduction -->
+<h1 align="center">👋 Hey,  I'm Sofia Mendez!</h1>
+
 
 <!-- Code Snippet -->
 ```python
 class ReadMe:
-    def __init__(self, username="afiorg9000", year=2022):
+    def __init__(self, username='afiorg9000', name='Sofia Mendez Dantas'):
         self.username = username
-        self.name = 'Sofia Mendez Dantas'
+        self.name = name
         self.education = {
             'programming': ['Holberton', 'ESTREAM Academy', 'Web3 Bootcamp'],
-            'Language': ['C', 'Python', 'JavaScript', 'HTML', 'CSS', 'Ruby', 'Shell', 'Puppet'],
-            'Learning': ['Low-level programming', 'System engineering & DevOps', 'Higher-level programming', 'Machine Learning'],
+            'language': ['C', 'Python', 'JavaScript', 'HTML', 'CSS', 'Ruby', 'Shell', 'Puppet'],
+            'background': ['Machine Learning', 'Higher-level & Lower-level programming', 'System engineering & DevOps'],
+            'learning': ['Systems Thinking', 'AI Product Management', 'ML for AI Alignment'],
         }
-```
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="GitHub Contributions">
-</p>
-
-```
-                “The computer programmer is a creator of universes for which he alone is the lawgiver. 
-                           No playwright, no stage director, no emperor, however powerful,
-                                has ever exercised such absolute authority to arrange 
-                a stage or field of battle and to command such unswervingly dutiful actors or troops.”
-                                                
-                                                                             ― Joseph Weizenbaum
 ```
 
 <!-- Connect with Me -->
