@@ -1,7 +1,3 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afiorg9000&color=blueviolet" alt="Profile Views">
-</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90820795/150628280-9016bb00-3d49-40ab-94d6-36d6793d5cb0.gif" alt="Coding GIF">
 </p>
@@ -16,11 +12,24 @@ class ReadMe:
         self.username = username
         self.name = name
         self.education = {
-            'programming': ['Holberton', 'ESTREAM Academy', 'Web3 Bootcamp'],
-            'language': ['C', 'Python', 'JavaScript', 'HTML', 'CSS', 'Ruby', 'Shell', 'Puppet'],
-            'background': ['Machine Learning', 'Higher-level & Lower-level programming', 'System engineering & DevOps'],
-            'learning': ['Systems Thinking', 'AI Product Management', 'ML for AI Alignment'],
+            'programming': ['Holberton', 'ESTREAM Academy']
         }
+        self.skills = {
+            'web_development': ['React', 'TypeScript', 'JavaScript', 'HTML', 'CSS'],
+            'backend_frameworks': ['Flask', 'FastAPI'],
+            'databases': ['SQL', 'Data Pipelines'],
+            'devops': ['Docker', 'Puppet', 'Shell'],
+            'system_engineering': ['Ruby', 'Shell', 'System Engineering'],
+            'Python': {
+                'ml_libraries': [
+                    'Keras', 'Matplotlib', 'NumPy', 'scikit-learn', 'SciPy', 
+                    'TensorFlow'
+                ],
+                'visualization': ['Matplotlib']
+            }
+        }
+        self.learning = ['Systems Thinking', 'AI Product Management', 'AI Safety']
+
 ```
 
 <!-- Connect with Me -->
